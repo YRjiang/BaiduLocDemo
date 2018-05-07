@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\0_Independent\4.program\Baidu\BaiduLBS_AndroidSDK_Sample (2)\BaiduLoc_AndroidSDK_v7.5_Demo\android_studio\BaiduLocDemo\app\libs\BaiduLBS_Android.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eacf809887920a56adc1c50cd63dfd43cf925819">
+        <dex dex="D:\0_Independent\4.program\Baidu\BaiduLBS_AndroidSDK_Sample (2)\BaiduLoc_AndroidSDK_v7.5_Demo\android_studio\BaiduLocDemo\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+
+</items>

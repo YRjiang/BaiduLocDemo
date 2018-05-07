@@ -1,0 +1,4 @@
+#Fri Mar 16 18:19:20 CST 2018
+base.0=D\:\\0_Independent\\4.program\\Baidu\\BaiduLBS_AndroidSDK_Sample (2)\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\transforms\\dex\\release\\0
+renamed.0=classes.dex
+file.0=D\:\\0_Independent\\4.program\\Baidu\\BaiduLBS_AndroidSDK_Sample (2)\\BaiduLoc_AndroidSDK_v7.5_Demo\\android_studio\\BaiduLocDemo\\app\\build\\intermediates\\transforms\\dex\\release\\0\\classes.dex
